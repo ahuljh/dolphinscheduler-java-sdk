@@ -1,4 +1,4 @@
-package com.github.ahuljh;
+package com.github.ahuljh.client;
 
 import java.util.Map;
 
